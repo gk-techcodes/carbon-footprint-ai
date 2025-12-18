@@ -1,0 +1,7 @@
+activity,co2_factor
+electricity_kwh,0.82
+petrol_litre,2.31
+diesel_litre,2.68
+lpg_cylinder,42.5
+bus_km,0.089
+train_km,0.041
