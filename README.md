@@ -1,2 +1,19 @@
-# carbon-footprint-ai
-This project develops an AI-based Carbon Footprint Calculator that estimates monthly CO₂ emissions from electricity usage, fuel consumption, LPG use, and public transport. The system analyzes user inputs using emission factors and provides AI-driven sustainability recommendations to promote eco-friendly and energy-efficient living.
+# 🌱 AI-Based Carbon Footprint Calculator
+
+## 📌 Description
+This project is a Streamlit-based AI application that calculates monthly carbon footprint using electricity consumption, fuel usage, LPG usage, and public transport distance. Based on the calculated CO₂ emissions, the system provides AI-driven sustainability recommendations to promote eco-friendly living.
+
+---
+
+## 🚀 Features
+- Carbon footprint calculation using standard emission factors  
+- Interactive Streamlit web interface  
+- AI-based sustainability suggestions  
+- Real-time results  
+
+---
+
+## 🧠 Tech Stack
+- Python  
+- Streamlit  
+- Pandas
